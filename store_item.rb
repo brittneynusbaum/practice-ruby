@@ -19,7 +19,7 @@ class Item
   end
 
   def print_info
-    p "The item is a #{@type}, the color is #{@color}, and the price is #{@price}."
+    p "The item is a #{type}, the color is #{color}, and the price is #{price}."
   end
 
 end
